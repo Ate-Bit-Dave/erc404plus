@@ -1,8 +1,8 @@
-# ERC-404
+# ERC-404Plus ERC-404+  Backed to the EthPow!
 
-> 🚨🚨 This repo contains the next version of ERC-404. It has not yet been fully tested or audited, and is not intended to be used in production yet. 🚨🚨
+> 🚨🚨 This repo contains the ERC-404Plus , Aka ERC-404+. It has not yet been audited. 🚨🚨
 
-> Please refer to [this repository](https://github.com/Pandora-Labs-Org/erc404-legacy) for the v1.0 version of ERC-404 that was released with Pandora.
+> Please refer to [this repository](https://github.com/Pandora-Labs-Org/erc404-legacy) for the v1.0 version of ERC-404 that was released with Pandora, where this Repo was forked from.
 
 ## Changelog
 
