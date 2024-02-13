@@ -1,4 +1,5 @@
-# ERC-404Plus ERC-404+  Backed to the EthPow!
+# ERC-404Plus ERC-404+ This Repo has Issues With Increassing Gas Fees.
+Probably Best Not to Use it.
 
 > 🚨🚨 This repo contains the ERC-404Plus , Aka ERC-404+. It has not yet been audited. 🚨🚨
 
